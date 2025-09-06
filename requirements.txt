@@ -1,0 +1,12 @@
+﻿# ===============================
+# Flight Reservation App
+# Requirements File
+# ===============================
+
+# Core dependencies (bundled with Python)
+# Tkinter → GUI framework (ships with Python)
+# SQLite3 → Database (ships with Python)
+
+# Optional dependencies
+# Uncomment if you want to add a calendar widget for date selection
+# tkcalendar==1.6.1

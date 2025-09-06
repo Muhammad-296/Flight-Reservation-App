@@ -1,4 +1,4 @@
-﻿# Flight Reservation App (Tkinter + SQLite)
+﻿# Flight Reservation App 
 
 A simple desktop-based flight reservation system built with **Python**, **Tkinter**, and **SQLite**.  
 This project demonstrates how to integrate a GUI with a relational database to perform **CRUD operations** (Create, Read, Update, Delete).
